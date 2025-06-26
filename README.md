@@ -49,11 +49,15 @@ A world-class, production-ready app template built with modern technologies and 
 
 **🎯 For detailed guidance on using this template for new projects, see [TEMPLATE_USAGE_GUIDE.md](./TEMPLATE_USAGE_GUIDE.md)**
 
-This guide covers:
+**🎨 For UI/UX design decisions and implementation strategies, see [UI_UX_DESIGN_GUIDE.md](./UI_UX_DESIGN_GUIDE.md)**
+
+These guides cover:
 - Step-by-step setup process
 - How to work effectively with Claude as your coding assistant
-- Common customization scenarios
-- Best practices and development workflows
+- Design decisions and visual identity implementation
+- Asset creation vs library usage strategies
+- Responsive design and component customization
+- Common customization scenarios and workflows
 
 ## 🚀 Quick Start
 
