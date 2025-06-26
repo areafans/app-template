@@ -45,6 +45,16 @@ A world-class, production-ready app template built with modern technologies and 
 - **UI Components**: shadcn/ui
 - **Deployment**: Vercel-ready
 
+## 📋 **New Project? Start Here!**
+
+**🎯 For detailed guidance on using this template for new projects, see [TEMPLATE_USAGE_GUIDE.md](./TEMPLATE_USAGE_GUIDE.md)**
+
+This guide covers:
+- Step-by-step setup process
+- How to work effectively with Claude as your coding assistant
+- Common customization scenarios
+- Best practices and development workflows
+
 ## 🚀 Quick Start
 
 ### Prerequisites
